@@ -1,6 +1,6 @@
 public class Demo01 {
     @Override
-    public String toString() {
+    String toString() {
         return super.toString();
     }
 }
