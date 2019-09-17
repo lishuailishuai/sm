@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37e8e467-bbd9-4e1f-8c93-1ed4c351ad05" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo01.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Demo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -67,11 +66,6 @@
             <path>
               <item name="sm" type="b2602c69:ProjectViewProjectNode" />
               <item name="sm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sm" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sm" type="b2602c69:ProjectViewProjectNode" />
@@ -138,7 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1568712244514</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="public">
+      <created>1568712342473</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568712342473</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pppppp">
+      <created>1568712499088</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568712499088</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -152,9 +160,9 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20672098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.49898168" visible="true" weight="0.16773163" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49898168" visible="true" weight="0.23322684" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50101835" side_tool="true" weight="0.19648562" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50101835" side_tool="true" weight="0.23322684" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -175,7 +183,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="123" />
     <MESSAGE value="789" />
-    <option name="LAST_COMMIT_MESSAGE" value="789" />
+    <MESSAGE value="public" />
+    <MESSAGE value="pppppp" />
+    <option name="LAST_COMMIT_MESSAGE" value="pppppp" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Object.java">
@@ -198,8 +208,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Demo01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
