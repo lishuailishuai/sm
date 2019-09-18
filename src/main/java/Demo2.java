@@ -3,11 +3,7 @@ public class Demo2 {
     zdgdfgdfsssssfdsfsdfsd
         dffgnf
         df法国德国
-<<<<<<< HEAD
-        23
-=======
-        22
->>>>>>> origin/master
+        22999999999999999999
 
 
     888888888886
