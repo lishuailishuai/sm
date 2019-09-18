@@ -41,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Demo2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
-              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -96,7 +96,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568772468056" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568772576567" />
     <property name="last_opened_file_path" value="C:/Code/IDEA-workspace/secondsgroup/day02" />
   </component>
   <component name="RunDashboard">
@@ -121,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568710679048</updated>
-      <workItem from="1568770433552" duration="1936000" />
+      <workItem from="1568770433552" duration="2196000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1568710754248</created>
@@ -214,11 +214,25 @@
       <option name="project" value="LOCAL" />
       <updated>1568772198804</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1">
+      <created>1568772376024</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1568772376024</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1">
+      <created>1568772494127</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1568772494127</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7280000" />
+    <option name="totallyTimeSpent" value="7540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -310,7 +324,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Demo2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
